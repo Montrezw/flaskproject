@@ -1,5 +1,5 @@
-saysomethingTC = %saysomething%
-print(f"Same hi with param {saysomethingTC}")
+saysomething = "Hola"
+print(f"Same hi with param {saysomething}")
 print("Hello, world")
 
 
